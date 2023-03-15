@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gianni Tallarita"
+title                    : "Gianni Tallarita's Webpage"
 title_separator          : "-"
 name                     : &name "Gianni Tallarita"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Gianni Tallarita"
   avatar           : "mypic.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Theoretical Physicist and Data-Scientist"
+  location         : "Chile"
   employer         :  "Universidad Adolfo Ibáñez"
   googlescholar    : "https://scholar.google.com/citations?user=ZwAk9WMAAAAJ&hl=en&oi=ao"
   email            :  "gianni.tallarita@uai.cl" 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Gianni-Tallarita" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,14 +101,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/gianni2k/"
+  linkedin         : "gianni2k"
   orcid            : "https://orcid.org/0000-0001-9737-9050"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "gianni2k"
   vine             :
   weibo            :
   xing             :
