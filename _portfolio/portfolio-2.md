@@ -1,9 +1,9 @@
 ---
-title: "1D AMR PDE solving in Neural Neworks"
-excerpt: "<br/><img src='/images/portfolio1.png'>"
+title: "Abrikosov Vortex Scatterings"
+excerpt: "<br/><img src='/images/portfolio2.png'>"
 collection: portfolio
 ---
 
-This is a code I wrote to solve the singular Burgers' equation in one dimension using adaptive mesh refinement. The novel aspect of this code is the implementation with Neural Networks, meaning the solver can be passed to GPUs, dramatically speeding up the calculation. This code was awarded a Featured Contributor Badge on Wolfram's community group (see [link](https://community.wolfram.com/groups/-/m/t/2852243)).
+This is the code behind the research article found [here](https://community.wolfram.com/groups/-/m/t/2852243). It performs scatterings of Abrikosov Vortices by using Neural Networks in Wolfram Language. 
 
-You can download the code [here](https://giannitallarita.github.io/files/AMRNeural.nb).
+You can download the code [here](https://giannitallarita.github.io/files/Portfolioitem2.nb).
