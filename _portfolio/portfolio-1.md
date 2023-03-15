@@ -1,6 +1,6 @@
 ---
 title: "1D AMR PDE solving in Neural Neworks"
-excerpt: "Solving Burger's equation with AMR on GPUs<br/><img src='/images/500x300.png'>"
+excerpt: "Solving Burger's equation with AMR on GPUs<br/><img src='/images/portfolio1.png'>"
 collection: portfolio
 ---
 
