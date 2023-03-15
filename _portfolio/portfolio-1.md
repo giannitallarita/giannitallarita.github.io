@@ -1,6 +1,6 @@
 ---
 title: "1D AMR PDE solving in Neural Neworks"
-excerpt: "<br/><img src='/images/portfolio1.png'>"
+excerpt: "<br/><img src='/images/portfolio1.png'> width="60%" height="30%""
 collection: portfolio
 ---
 
