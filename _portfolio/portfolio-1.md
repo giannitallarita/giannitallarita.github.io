@@ -1,6 +1,6 @@
 ---
-title: "A 1D study of Adaptive Mesh Refinement in Neural Networks using Wolfram language"
-excerpt: "I solve Burger's equation using an adaptive mesh refinement algorithm coded in Neural networks formalism. This is coded in Wolfram language." <br/><img src='/images/500x300.png'>
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
