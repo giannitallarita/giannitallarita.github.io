@@ -1,6 +1,6 @@
 ---
 title: "Abrikosov Vortex Scatterings"
-excerpt: "<br/><img src='/images/portfolio2.png'>"
+excerpt: "<br/><img src='/images/portfolio2.png' width='40%' height='30%'>"
 collection: portfolio
 ---
 
