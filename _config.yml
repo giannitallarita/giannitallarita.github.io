@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gianni Tallarita's Webpage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Gianni Tallarita"
 description              : &description "personal description"
