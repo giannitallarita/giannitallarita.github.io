@@ -2,7 +2,7 @@
 title: "Analytic Baby Skyrmions at Finite Density"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper is about a particular analytic sector in Baby-Skyrmion Theory.'
 date: 2020-12-28
 venue: 'Eur.Phys.J.C'
 paperurl: 'https://doi.org/10.1140/epjc/s10052-020-08683-4'
