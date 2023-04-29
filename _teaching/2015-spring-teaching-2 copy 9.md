@@ -3,7 +3,7 @@ title: "CORE science course"
 collection: teaching
 type: "Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Universidad Adolfo Ibéañez"
+venue: "Universidad Adolfo Ibáñez"
 date: 2015-01-05
 location: "Santiago, Chile"
 ---
