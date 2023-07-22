@@ -84,7 +84,7 @@ author:
   avatar           : "mypic.png"
   bio              : "Theoretical Physicist and Data-Scientist"
   location         : "Barcelona, Spain"
-  employer         :  ""
+ # employer         :  ""
   googlescholar    : "https://scholar.google.com/citations?user=ZwAk9WMAAAAJ&hl=en&oi=ao"
   email            :  "gianni2k@gmail.com" 
   researchgate     :  "https://www.researchgate.net/profile/Gianni-Tallarita" # example: "https://www.researchgate.net/profile/yourprofile"
