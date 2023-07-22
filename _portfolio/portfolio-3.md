@@ -1,9 +1,9 @@
 ---
-title: "Soliton Scattering simulations in Python Cupy"
-excerpt: "<br/><img src='/images/portfolio6.png' width='40%' height='30%'>"
+title: "Data Collection and Cleaning with Python Pandas"
+excerpt: "<br/><img src='/images/portfolio4.png' width='40%' height='30%'>"
 collection: portfolio
 ---
 
-This is a Python code that uses Cupy to run 3+1 dimensional soliton scattering simulations directly on my GPUs. It uses a standard Runge-Kutta evolver to advance in time.
+This is the second of 3 Python codes which I built in order to construct my own financial Robo-advisor. This code downloads, prepares and cleans data of relevant financial indices over which we want to invest.
 
-You can download the code [here](https://giannitallarita.github.io/files/Vortex_1GPU_A_Tmunu.ipynb).
+You can download the code [here](https://giannitallarita.github.io/files/01-Data_collector.ipynb).

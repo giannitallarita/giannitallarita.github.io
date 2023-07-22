@@ -1,9 +1,9 @@
 ---
-title: "Data Collection and Cleaning with Python Pandas"
-excerpt: "<br/><img src='/images/portfolio4.png' width='40%' height='30%'>"
+title: "Abrikosov Vortex Scatterings"
+excerpt: "<br/><img src='/images/portfolio2.png' width='40%' height='30%'>"
 collection: portfolio
 ---
 
-This is the second of 3 Python codes which I built in order to construct my own financial Robo-advisor. This code downloads, prepares and cleans data of relevant financial indices over which we want to invest.
+This is the code behind the research article found [here](https://community.wolfram.com/groups/-/m/t/2852243). It performs scatterings of Abrikosov Vortices by using Neural Networks in Wolfram Language. 
 
-You can download the code [here](https://giannitallarita.github.io/files/01-Data_collector.ipynb).
+You can download the code [here](https://giannitallarita.github.io/files/Portfolioitem2.nb).
