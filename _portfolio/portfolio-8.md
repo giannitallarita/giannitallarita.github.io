@@ -1,9 +1,9 @@
 ---
-title: "Using Neural Networks to Lip read from videos"
-excerpt: "<br/><img src='/images/portfolio8.png' width='40%' height='30%'>"
+title: "Portfolio Management in Python"
+excerpt: "<br/><img src='/images/portfolio5.png' width='40%' height='30%'>"
 collection: portfolio
 ---
 
-This is a Python code Neural Networks in order to train a lip reader from videos. 
+This is the third and final project to construct my own financial Robo-advisor. In this program I implement a model that, for a fixed tolerance, specifies the percentage of each financial entity that should be added to your portfolio in order to maximize returns. 
 
-You can download the code [here](https://giannitallarita.github.io/files/LIPS.ipynb).
+You can download the code [here](https://giannitallarita.github.io/files/02-Porfolio_selector.ipynb).
