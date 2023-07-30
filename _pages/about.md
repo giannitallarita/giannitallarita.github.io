@@ -17,4 +17,4 @@ Coding is my personal hobby too. For fun, I coded my own personal Robo-Advisor f
 
 Quick Links
 ------
-You can download my full CV [here](https://giannitallarita.github.io/files/Cvlatestlatest.pdf)
+You can download my full CV [here](https://giannitallarita.github.io/files/Cvlatestlatest.pdf), or my 1-page CV [here] (https://giannitallarita.github.io/files/1pageCV.pdf)
