@@ -18,4 +18,4 @@ I hold certificates in both AWS and Azure Machine Learning Cloud expertise as we
 
 Quick Links
 ------
-You can download my full CV [here](https://giannitallarita.github.io/files/Cvlatestlatest.pdf), or my 1-page CV [here](https://giannitallarita.github.io/files/1pageCV.pdf)
+You can download my academic CV [here](https://giannitallarita.github.io/files/Cvlatestlatest.pdf) or my Data-Science CV [here](https://giannitallarita.github.io/files/Data_Scientist_CV.pdf).
